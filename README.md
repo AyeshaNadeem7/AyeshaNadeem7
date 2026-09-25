@@ -20,6 +20,10 @@ I'm an **AI / ML Engineer** focused on turning raw data into working, deployable
 - 🤝 Open to collaborating on **AI/ML and applied NLP projects**
 - 📫 Reach me at **ayesha778nadeem@gmail.com**
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+</div>
+
 <br/><br/>
 
 ## 🚀 Featured Projects
@@ -29,7 +33,7 @@ I'm an **AI / ML Engineer** focused on turning raw data into working, deployable
 <td width="50%" valign="top">
 
 ### 📦 Asset Tracker System
-_Details to be added._
+A tracking application built to monitor, log, and manage organizational assets in real time — covering asset registration, status updates, and reporting.
 
 [🔗 View Repo](#)
 
@@ -37,7 +41,7 @@ _Details to be added._
 <td width="50%" valign="top">
 
 ### 🚦 RoadSafe AI
-_Details to be added._
+An AI-powered road safety project using computer vision to detect on-road hazards and risky driving patterns, aimed at reducing accidents.
 
 [🔗 View Repo](#)
 
@@ -47,15 +51,15 @@ _Details to be added._
 <td width="50%" valign="top">
 
 ### 🔋 EV Battery Failure Prediction
-_Details to be added._
+A machine learning model that predicts electric vehicle battery degradation and failure risk from performance and sensor data, supporting predictive maintenance.
 
 [🔗 View Repo](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Mind Flare Academy / Corvit AI Website
-_Details to be added._
+### 🎓 Corvit AI Website
+A website built for Corvit's AI program showcasing course offerings, AI-driven features, and an interactive front end for prospective students.
 
 [🔗 View Repo](#)
 
@@ -65,17 +69,17 @@ _Details to be added._
 <td width="50%" valign="top">
 
 ### 🌦️ Weather Forecasting
-_Details to be added._
+A forecasting model that predicts short-term weather conditions using historical climate data and time-series machine learning techniques.
 
 [🔗 View Repo](#)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Student Score Prediction
-Regression pipeline comparing **Linear vs. Polynomial Regression** to predict academic performance, with full model evaluation and error analysis.
+### ✈️ TravelMate
+Full-stack **PHP & MySQL** travel planner — users set trip preferences and the app generates and stores a personalized trip plan, manageable via phpMyAdmin.
 
-[🔗 View Repo](https://github.com/AyeshaNadeem7/Student-Score-Prediction)
+[🔗 View Repo](https://github.com/AyeshaNadeem7/WebProject)
 
 </td>
 </tr>
@@ -85,15 +89,19 @@ Regression pipeline comparing **Linear vs. Polynomial Regression** to predict ac
 
 ## 🛠️ Tech Stack
 
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%">
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**AI / ML / Computer Vision**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -102,8 +110,20 @@ Regression pipeline comparing **Linear vs. Polynomial Regression** to predict ac
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**NLP / LLM / RAG**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools & IDEs**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)

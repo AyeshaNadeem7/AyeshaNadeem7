@@ -76,10 +76,10 @@ A forecasting model that predicts short-term weather conditions using historical
 </td>
 <td width="50%" valign="top">
 
-### ✈️ TravelMate
-Full-stack **PHP & MySQL** travel planner — users set trip preferences and the app generates and stores a personalized trip plan, manageable via phpMyAdmin.
+### 🔥 Mind Flare Academy Website
+An educational platform website for Mind Flare Academy, built to showcase courses, guide student enrollment, and present the academy's programs through a clean, responsive interface.
 
-[🔗 View Repo](https://github.com/AyeshaNadeem7/WebProject)
+[🔗 View Repo](#)
 
 </td>
 </tr>
@@ -89,7 +89,9 @@ Full-stack **PHP & MySQL** travel planner — users set trip preferences and the
 
 ## 🛠️ Tech Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="300">
+</div>
 
 **Languages**
 
